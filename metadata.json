@@ -1,0 +1,6 @@
+{
+  "name": "浮力探究实验室",
+  "description": "一个专为初中八年级学生设计的互动式物理仿真实验，深入探究物体的浮沉条件及其在潜水艇、热气球和密度计中的应用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
